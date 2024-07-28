@@ -13,8 +13,8 @@ You can read new documentation how install and work with engine, how write scrip
 
 ### License
 
-Documentation Copyright (c) 2023 Dukhovenko Danila.\
-Logo Copyright (c) 2023 Dukhovenko Danila.
+Documentation Copyright (c) 2023-2024 Dukhovenko Danila.\
+Logo Copyright (c) 2024 Dukhovenko Danila.
 
 Documentation released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).\
 Logo released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
