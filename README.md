@@ -7,7 +7,7 @@
 **Nave** is launcher for [Force Engine](https://github.com/KennyProgrammer/Force). That allows to create projects, manipulating and installing fresh builds of Force.
 
 **NOTE:**
- Nave will be work good and create projects starts from [0.4.0](www.github.com/KennyProgrammer/Force/releases) release build. 
+ Nave will be work good and create projects starts from [2025.b1](https://danil-dukhovenko.gitbook.io/force/other/updates/force-2025.b1.dbg-preview-1) preview release build. 
 
 ### Documentation
 You can read new documentation how install and work with engine, how write scripts and make games [here](https://danil-dukhovenko.gitbook.io/force/).
